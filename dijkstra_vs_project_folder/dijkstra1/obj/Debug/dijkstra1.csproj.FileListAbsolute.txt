@@ -1,0 +1,7 @@
+c:\users\lw\source\repos\dijkstra1\dijkstra1\bin\Debug\dijkstra1.exe.config
+c:\users\lw\source\repos\dijkstra1\dijkstra1\bin\Debug\dijkstra1.exe
+c:\users\lw\source\repos\dijkstra1\dijkstra1\bin\Debug\dijkstra1.pdb
+c:\users\lw\source\repos\dijkstra1\dijkstra1\obj\Debug\dijkstra1.csprojResolveAssemblyReference.cache
+c:\users\lw\source\repos\dijkstra1\dijkstra1\obj\Debug\dijkstra1.csproj.CoreCompileInputs.cache
+c:\users\lw\source\repos\dijkstra1\dijkstra1\obj\Debug\dijkstra1.exe
+c:\users\lw\source\repos\dijkstra1\dijkstra1\obj\Debug\dijkstra1.pdb
